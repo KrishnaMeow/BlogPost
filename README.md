@@ -29,7 +29,7 @@ cd backend
 Install the dependencies:
 npm install
 Create a .env file in the backend folder and add your MongoDB Atlas URI:
-MONGO_URI=mongodb+srv://<your_username>:<your_password>@cluster0.6md9k.mongodb.net/?retryWrites=true&w=majority
+MONGO_URI=mongodb+srv://Admin:Admin%402025@cluster0.6md9k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 Run the backend server:
 node index.js
 The backend will now be running on http://localhost:5000.
