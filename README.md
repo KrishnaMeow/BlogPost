@@ -6,8 +6,8 @@ Create a post: Allows users to add new blog posts.
 View posts: Displays a list of all blog posts.
 GraphQL API: Uses a GraphQL API for handling queries and mutations for posts.
 MongoDB Atlas: Database hosted on MongoDB Atlas for storing posts.
-Tech Stack
 
+Tech Stack
 Backend:
 Node.js
 Express
